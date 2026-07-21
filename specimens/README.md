@@ -1,6 +1,6 @@
 # Specimen entries — synthetic, for interactive exercises
 
-These are **reconstructions, not data**. No real participant content appears here: names, ages, errands, locations, and every quoted line are invented. Each specimen reproduces an event *type* that the study's QA process actually encountered (documented in the sealed archive), so that a reader's AI can run the exercises below without the real data ever leaving its sealed tier. Written 2026-07-21; pending Conor's review before any public use. Rule from the lab charter: specimens are written fresh from event types, never paraphrased from real entries.
+These are **reconstructions, not data**. No real participant content appears here: names, ages, errands, locations, and every quoted line are invented. Each specimen reproduces an event *type* that the study's QA process actually encountered (documented in the sealed archive), so that a reader's AI can run the exercises below without the real data ever leaving its sealed tier. Written 2026-07-21. Rule from the lab charter: specimens are written fresh from event types, never paraphrased from real entries.
 
 **Approved by Conor, 2026-07-21:** both specimens read as accurate, fair reconstructions of the real events they're modeled on. Cleared for E8 and for public use.
 
